@@ -1,0 +1,124 @@
+//// ejemplo de datos de los carros //
+
+ // 1. Lancia 037
+
+      "Lancia 037",
+      "Lancia",
+      1982,
+      "2.0L Supercharged",
+      220,
+      "Grupo B",
+      "RWD",
+      325,
+      960,
+      "Walter Röhrl",
+      6,
+      "Rally de Montecarlo",
+      "Monaco",
+      10
+    
+
+ // 2. MG Metro 6R4
+
+      "MG Metro 6R4",
+      "MG",
+      1985,
+      "3.0L V6",
+      210,
+      "Grupo B",
+      "AWD",
+      410,
+      1030,
+      "Tony Pond",
+      3,
+      "Rally RAC",
+      "Reino Unido",
+      9
+     
+
+// 3. Renault 5 Turbo
+
+      "Renault 5 Turbo",
+      "Renault",
+      1980,
+      "1.4L Turbo",
+      200,
+      "Grupo B",
+      "RWD",
+      350,
+      970,
+      "Jean Ragnotti",
+      4,
+      "Rally de Montecarlo",
+      "Francia",
+      9
+
+//4.Lancia Delta S4
+ 
+        "Lancia Delta S4",
+        "Lancia",
+        1985,
+        "2.1L Turbo",
+        250,
+        "Grupo B",
+        "AWD",
+        500,
+        890,
+        "Henri Toivonen",
+        5,
+        "Rally de Montecarlo",
+        "Monaco",
+        10
+
+
+//5.Audi Quattro S1
+
+    "Audi Quattro S1",
+    "Audi",
+    1985,
+    "2.1L Turbo",
+    260,
+    "Grupo B",
+    "AWD",
+    470,
+    1090,
+    "Walter Röhrl",
+    7,
+    "Pikes Peak",
+    "USA",
+    10
+
+//6.Ford RS200
+
+    "Ford RS200",
+    "Ford",
+    1986,
+    "1.8L Turbo",
+    240,
+    "Grupo B",
+    "AWD",
+    450,
+    1050,
+    "Stig Blomqvist",
+    2,
+    "Rally de Suecia",
+    "Suecia",
+    9
+
+///7.
+Peugeot 205 T16
+
+    "Peugeot 205 T16",
+    "Peugeot",
+    1984,
+    "1.8L Turbo",
+    210,
+    "Grupo B",
+    "AWD",
+    500,
+    960,
+    "Ari Vatanen",
+    16,
+    "Rally Dakar",
+    "Francia",
+    10
