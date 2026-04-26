@@ -1,3 +1,5 @@
+/// Nota: Si ya fue creado previamente, no permite ejecutarse debido al límite de espacio,/////
+/// ya que contiene muchos caracteres. Solucionar en el futuro./////
 //////////////////// Imports ////////////////////
 import { PublicKey, SystemProgram } from "@solana/web3.js";
 
